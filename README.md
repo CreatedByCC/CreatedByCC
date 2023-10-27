@@ -1,13 +1,13 @@
 <p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/></p>
 <h1 align="center">Hi 👋, I'm CC</h1>
-<h3 align="center">A passionate frontend developer from Auckland</h3>
+<h3 align="center">and I LOVE me some code!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=createdbycc&label=Profile%20views&color=0e75b6&style=flat" alt="createdbycc" /> </p>
 
 - 🔭 I’m currently working on **JS Calculator**
 
-- 🌱 I’m currently learning **Frontend development Libraries**
+- 🌱 I’m currently learning more about **Frontend development Libraries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
