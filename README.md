@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Completing my Fullstack Certification**
 
-- 🌱 I’m currently learning more about **Building Interactive Websites**
+- 🌱 I’m currently learning more about **React Router**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
