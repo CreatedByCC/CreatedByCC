@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=createdbycc&label=Profile%20views&color=0e75b6&style=flat" alt="createdbycc" /> </p>
 
-- 🔭 I’m currently working on **Completing my Fullstack Certification**
+- 🔭 I’m currently working on **Completing PGCert in IT**
 
-- 🌱 I’m currently learning more about **React Router**
+- 🌱 I’m currently learning more about **HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
