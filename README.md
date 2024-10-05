@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Completing a PGCert in IT**
 
-- 🌱 I’m currently learning more about **Svelte**
+- 🌱 I’m currently learning more about **Databases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
