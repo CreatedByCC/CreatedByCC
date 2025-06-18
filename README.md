@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=createdbycc" alt="createdbycc" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **Bulls and Cows game**
+- 🔭 I’m currently working on **My final project a Colour swap game**
 
 - 🌱 I’m currently learning **Java** through Auckland University
 
