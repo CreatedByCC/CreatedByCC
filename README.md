@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=createdbycc" alt="createdbycc" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **My personal portfolio website**
+- 🔭 I’m currently working on **Upskilling myself**
 
-- 🌱 I’m currently learning **TBD** 
+- 🌱 I’m currently learning **Python** 
 
 - 👨‍💻 All of my public projects are available at [https://createdbycc.github.io/github-repo-gallery/](https://createdbycc.github.io/github-repo-gallery/)
 
