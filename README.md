@@ -8,6 +8,9 @@
 💡 Passionate about building intuitive, engaging applications and learning new tools <br>
 🚀 Exploring full-stack development through creative problem-solving
 </h3>
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![100 Days of Code](https://img.shields.io/badge/100DaysOfCode-Day%203-orange)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=createdbycc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
